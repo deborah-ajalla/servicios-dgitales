@@ -53,7 +53,7 @@ header{
 /*<!-------- PRINCIPAL -------->*/
 #banner{
     padding: 0 50px; /*medida en que se alinea todo el contenido*/
-    background-image: url(/assets/keyboard.jpg);
+    background-image: url(./assets/keyboard.jpg);
     height: 85vh;
     background-size: cover;
     background-position: center;
